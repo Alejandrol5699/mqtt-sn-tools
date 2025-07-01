@@ -6,3 +6,4 @@ build/
 __pycache__/
 dist/
 coverage/
+.pytest_cache/
