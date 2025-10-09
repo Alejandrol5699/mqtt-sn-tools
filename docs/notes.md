@@ -16,3 +16,4 @@ Notes and usage details for mqtt-sn-tools.
 - fix a small wording issue
 - fix a small wording issue
 - link the usage section
+- link the usage section
