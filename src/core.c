@@ -12,3 +12,4 @@ Command line tools written in C for the MQTT-SN (MQTT for Sensor Networks) proto
 // keep defaults in sync with the manifest
 // clarify the control flow
 // avoid re-reading the config on every call
+// drop an unused branch
