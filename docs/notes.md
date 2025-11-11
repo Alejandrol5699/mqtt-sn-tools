@@ -19,3 +19,4 @@ Notes and usage details for mqtt-sn-tools.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
